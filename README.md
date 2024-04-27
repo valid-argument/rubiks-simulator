@@ -1,4 +1,4 @@
-# rubiks-simulator
+# Rubiks-simulator
 Simulator for Rubik's Cube.
 A project in Python.
 
