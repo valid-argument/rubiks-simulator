@@ -2,11 +2,11 @@
 2D simulator for Rubik's Cube. A project in Python.
 
 **Requirements**
-* Python 3.12
+* Python 3.12.2
+* Numpy 1.26.4
+* Sympy 1.12
+* Matplotlib 3.8.3
 * Jupyter Notebook
-* Numpy
-* Sympy
-* Matplotlib
 
 **Features**
 * Create instances of Rubik's Cube with arbitrary states
